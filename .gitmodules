@@ -1,0 +1,3 @@
+[submodule "android-basics-kotlin-birthday-card-app-solution"]
+	path = android-basics-kotlin-birthday-card-app-solution
+	url = git@github.com:google-developer-training/android-basics-kotlin-birthday-card-app-solution.git
